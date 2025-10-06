@@ -6,6 +6,8 @@ public class myClass1 {
 		int a=67;
 		System.out.println(a);
 		System.out.println(a);
+		System.out.println(a);
+		
 	}
 
 }
